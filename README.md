@@ -77,7 +77,7 @@ Delivered a live project end to end using Git and agile workflows.
 |---|---|---|---|
 | B.Tech, Electronics and Communication Engineering | Lakireddy Bali Reddy College of Engineering | 2023 to 2027 | CGPA 8.08 |
 | Intermediate (BIEAP) |Sri Chaitanya Jr.College  | 2023 | 91.40% |
-| SSC | Oxford English Medium School | 2021 | 95.67% |
+| SSC | Oxford English Medium School | 2021 | 89.33% |
 
 ---
 
